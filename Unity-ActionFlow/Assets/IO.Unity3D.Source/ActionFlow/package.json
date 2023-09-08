@@ -1,0 +1,21 @@
+{
+    "name": "io.unity3d.source.actionflow",
+    "displayName": "Source Framework ActionFlow",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Component in Source Framework - Action Flow for Unity",
+    "dependencies": {
+    },
+    "author": {
+        "name": "Kakashi",
+        "email": "john.cha@qq.com",
+        "url": "https://github.com/kakashiio/Unity-ActionFlow"
+    },
+    "samples": [
+        {
+            "displayName": "Baisc usage about the ActionFlow",
+            "description": "Baisc usage about the ActionFlow",
+            "path": "Samples~/Basic"
+        }
+    ]
+}
