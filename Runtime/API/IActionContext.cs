@@ -10,6 +10,10 @@ namespace IO.Unity3D.Source.ActionFlow
     public interface IActionContext
     {
         float GetTime();
+        
         float GetDeltaTime();
+
+        T Get<T>();
+        void Set<T>(T t);
     }
 }
