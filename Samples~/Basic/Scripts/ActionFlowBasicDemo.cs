@@ -1,9 +1,8 @@
 using System.Collections.Generic;
 using IO.Unity3D.Source.ActionFlow.Runtime;
-using Unity.VisualScripting;
 using UnityEngine;
 
-namespace IO.Unity3D.Source.ActionFlow.Samples
+namespace IO.Unity3D.Source.ActionaFlow.Samples
 {
     //******************************************
     //  
